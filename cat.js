@@ -1,3 +1,3 @@
 // cat.js
-console.log("Mew!")
+console.log("Meow!")
 console.log("Purr...")
